@@ -14,9 +14,10 @@
     "mdbreact": "^4.27.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "reactstrap": "^8.6.0"
   },
-  "scripts": {
+  "scripts": { 
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
